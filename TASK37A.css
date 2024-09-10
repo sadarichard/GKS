@@ -377,7 +377,7 @@ html {
     align-items: center;
     width: 100vw;
     height: 100vh;
-    background-image: url(/GKS/pexels-tima-miroshnichenko-5206051.jpg);
+    background-image: url(GKS/pexels-tima-miroshnichenko-5206051.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -410,7 +410,7 @@ html {
 .sec2a {
     width: 30vw;
     height: 50vh;
-    background-image: url(/GKS/photo-1529511582893-2d7e684dd128.jpg);
+    background-image: url(GKS/photo-1529511582893-2d7e684dd128.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -555,7 +555,7 @@ html {
 
 .section5 {
     min-height: 130vh;
-    background-image: url(/GKS/Choir.jpeg);
+    background-image: url(GKS/Choir.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -648,7 +648,7 @@ p:hover {
 .sec6a1 {
     width: 19vw;
     height: 30vh;
-    background-image: url(/GKS/Sada1.jpeg);
+    background-image: url(GKS/Sada1.jpeg);
     background-repeat: no-repeat;
     background-size: 300%;
     background-position: 52% 15%;
@@ -666,7 +666,7 @@ p:hover {
 .sec6b1 {
     width: 19vw;
     height: 30vh;
-    background-image: url(/GKS/Ediri.jpeg);
+    background-image: url(GKS/Ediri.jpeg);
     background-repeat: no-repeat;
     background-size: 120%;
     background-position: 45% 30%;
@@ -684,7 +684,7 @@ p:hover {
 .sec6c1 {
     width: 19vw;
     height: 30vh;
-    background-image: url(/GKS/WhatsApp\ Image\ 2024-05-10\ at\ 12.39.15\ PM.jpeg);
+    background-image: url(GKS/WhatsApp\ Image\ 2024-05-10\ at\ 12.39.15\ PM.jpeg);
     background-repeat: no-repeat;
     background-size: 110%;
     background-position: 45% 30%;
@@ -702,7 +702,7 @@ p:hover {
 .sec6d1 {
     width: 19vw;
     height: 30vh;
-    background-image: url(/GKS/Omiklose.jpeg);
+    background-image: url(GKS/Omiklose.jpeg);
     background-repeat: no-repeat;
     background-size: 110%;
     background-position: 45% 30%;
@@ -720,7 +720,7 @@ p:hover {
 .sec6e1 {
     width: 19vw;
     height: 30vh;
-    background-image: url(/GKS/Great.jpeg);
+    background-image: url(GKS/Great.jpeg);
     background-repeat: no-repeat;
     background-size: 100%;
     background-position: 40% 15%;
@@ -738,7 +738,7 @@ p:hover {
 .sec6f1 {
     width: 19vw;
     height: 30vh;
-    background-image: url(/GKS/WhatsApp\ Image\ 2024-05-10\ at\ 12.47.30\ PM.jpeg);
+    background-image: url(GKS/WhatsApp\ Image\ 2024-05-10\ at\ 12.47.30\ PM.jpeg);
     background-repeat: no-repeat;
     background-size: 120%;
     background-position: 45% 30%;
@@ -756,7 +756,7 @@ p:hover {
 .sec6g1 {
     width: 19vw;
     height: 30vh;
-    background-image: url(/GKS/Baz.jpeg);
+    background-image: url(GKS/Baz.jpeg);
     background-repeat: no-repeat;
     background-size: 100%;
     background-position: 45% 30%;
@@ -774,7 +774,7 @@ p:hover {
 .sec6h1 {
     width: 19vw;
     height: 30vh;
-    background-image: url(/GKS/WhatsApp\ Image\ 2024-05-10\ at\ 12.46.47\ PM.jpeg);
+    background-image: url(GKS/WhatsApp\ Image\ 2024-05-10\ at\ 12.46.47\ PM.jpeg);
     background-repeat: no-repeat;
     background-size: 110%;
     background-position: 45% 30%;
@@ -792,7 +792,7 @@ p:hover {
 .sec6i1 {
     width: 19vw;
     height: 30vh;
-    background-image: url(/GKS/WhatsApp\ Image\ 2024-05-10\ at\ 12.38.27\ PM.jpeg);
+    background-image: url(GKS/WhatsApp\ Image\ 2024-05-10\ at\ 12.38.27\ PM.jpeg);
     background-repeat: no-repeat;
     background-size: 110%;
     background-position: 45% 30%;
@@ -805,16 +805,6 @@ p:hover {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-}
-
-.sec6j1 {
-    width: 19vw;
-    height: 30vh;
-    border: 1px solid blue;
-    background-image: url(/GKS/);
-    background-repeat: no-repeat;
-    background-size: 110%;
-    background-position: 45% 30%;
 }
 
 .foot {
@@ -1270,7 +1260,7 @@ p:hover {
         align-items: center;
         width: 100vw;
         height: 100vh;
-        background-image: url(/GKS/pexels-tima-miroshnichenko-5206051.jpg);
+        background-image: url(GKS/pexels-tima-miroshnichenko-5206051.jpg);
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
@@ -1303,7 +1293,7 @@ p:hover {
     .sec2a {
         width: 30vw;
         height: 50vh;
-        background-image: url(/GKS/photo-1529511582893-2d7e684dd128.jpg);
+        background-image: url(GKS/photo-1529511582893-2d7e684dd128.jpg);
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center;
@@ -1460,7 +1450,7 @@ p:hover {
 
     .section5 {
         min-height: 130vh;
-        background-image: url(/GKS/Choir.jpeg);
+        background-image: url(GKS/Choir.jpeg);
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
@@ -1550,7 +1540,7 @@ p:hover {
     .sec6a1 {
         width: 40vw;
         height: 35vh;
-        background-image: url(/GKS/Sada1.jpeg);
+        background-image: url(GKS/Sada1.jpeg);
         background-repeat: no-repeat;
         background-size: 300%;
         background-position: 52% 15%;
@@ -1569,7 +1559,7 @@ p:hover {
     .sec6b1 {
         width: 40vw;
         height: 35vh;
-        background-image: url(/GKS/Ediri.jpeg);
+        background-image: url(GKS/Ediri.jpeg);
         background-repeat: no-repeat;
         background-size: 200%;
         background-position: 45% 15%;
@@ -1588,7 +1578,7 @@ p:hover {
     .sec6c1 {
         width: 40vw;
         height: 35vh;
-        background-image: url(/GKS/WhatsApp\ Image\ 2024-05-10\ at\ 12.39.15\ PM.jpeg);
+        background-image: url(GKS/WhatsApp\ Image\ 2024-05-10\ at\ 12.39.15\ PM.jpeg);
         background-repeat: no-repeat;
         background-size: 100%;
         background-position: 45% 15%;
@@ -1607,7 +1597,7 @@ p:hover {
     .sec6d1 {
         width: 40vw;
         height: 35vh;
-        background-image: url(/GKS/Omiklose.jpeg);
+        background-image: url(GKS/Omiklose.jpeg);
         background-repeat: no-repeat;
         background-size: 100%;
         background-position: 45% 15%;
@@ -1626,7 +1616,7 @@ p:hover {
     .sec6e1 {
         width: 40vw;
         height: 35vh;
-        background-image: url(/GKS/Great.jpeg);
+        background-image: url(GKS/Great.jpeg);
         background-repeat: no-repeat;
         background-size: 100%;
         background-position: 40% 15%;
@@ -1645,7 +1635,7 @@ p:hover {
     .sec6f1 {
         width: 40vw;
         height: 35vh;
-        background-image: url(/GKS/WhatsApp\ Image\ 2024-05-10\ at\ 12.47.30\ PM.jpeg);
+        background-image: url(GKS/WhatsApp\ Image\ 2024-05-10\ at\ 12.47.30\ PM.jpeg);
         background-repeat: no-repeat;
         background-size: 200%;
         background-position: 45% 15%;
@@ -1664,7 +1654,7 @@ p:hover {
     .sec6g1 {
         width: 40vw;
         height: 35vh;
-        background-image: url(/GKS/Baz.jpeg);
+        background-image: url(GKS/Baz.jpeg);
         background-repeat: no-repeat;
         background-size: 200%;
         background-position: 40% 5%;
@@ -1683,7 +1673,7 @@ p:hover {
     .sec6h1 {
         width: 40vw;
         height: 35vh;
-        background-image: url(/GKS/WhatsApp\ Image\ 2024-05-10\ at\ 12.46.47\ PM.jpeg);
+        background-image: url(GKS/WhatsApp\ Image\ 2024-05-10\ at\ 12.46.47\ PM.jpeg);
         background-repeat: no-repeat;
         background-size: 100%;
         background-position: 45% 15%;
@@ -1702,7 +1692,7 @@ p:hover {
     .sec6i1 {
         width: 40vw;
         height: 35vh;
-        background-image: url(/GKS/WhatsApp\ Image\ 2024-05-10\ at\ 12.38.27\ PM.jpeg);
+        background-image: url(GKS/WhatsApp\ Image\ 2024-05-10\ at\ 12.38.27\ PM.jpeg);
         background-repeat: no-repeat;
         background-size: 100%;
         background-position: 45% 15%;
@@ -1716,16 +1706,6 @@ p:hover {
         flex-direction: column;
         justify-content: center;
         align-items: center;
-    }
-
-    .sec6j1 {
-        width: 40vw;
-        height: 35vh;
-        border: 1px solid blue;
-        background-image: url(/GKS/);
-        background-repeat: no-repeat;
-        background-size: 100%;
-        background-position: 45% 15%;
     }
 
     .foot {
@@ -2185,7 +2165,7 @@ p:hover {
         align-items: center;
         width: 100vw;
         height: 100vh;
-        background-image: url(/GKS/pexels-tima-miroshnichenko-5206051.jpg);
+        background-image: url(GKS/pexels-tima-miroshnichenko-5206051.jpg);
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
@@ -2217,7 +2197,7 @@ p:hover {
     .sec2a {
         width: 90vw;
         height: 40vh;
-        background-image: url(/GKS/photo-1529511582893-2d7e684dd128.jpg);
+        background-image: url(GKS/photo-1529511582893-2d7e684dd128.jpg);
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center;
@@ -2352,7 +2332,7 @@ p:hover {
 
     .section5 {
         min-height: 130vh;
-        background-image: url(/GKS/Choir.jpeg);
+        background-image: url(GKS/Choir.jpeg);
         background-repeat: no-repeat;
         background-size: cover;
         background-position: 50% 50%;
@@ -2444,7 +2424,7 @@ p:hover {
     .sec6a1 {
         width: 80vw;
         height: 35vh;
-        background-image: url(/GKS/Sada1.jpeg);
+        background-image: url(GKS/Sada1.jpeg);
         background-repeat: no-repeat;
         background-size: 300%;
         background-position: 52% 15%;
@@ -2463,7 +2443,7 @@ p:hover {
     .sec6b1 {
         width: 80vw;
         height: 35vh;
-        background-image: url(/GKS/Ediri.jpeg);
+        background-image: url(GKS/Ediri.jpeg);
         background-repeat: no-repeat;
         background-size: 100%;
         background-position: 45% 15%;
@@ -2482,7 +2462,7 @@ p:hover {
     .sec6c1 {
         width: 80vw;
         height: 35vh;
-        background-image: url(/GKS/WhatsApp\ Image\ 2024-05-10\ at\ 12.39.15\ PM.jpeg);
+        background-image: url(GKS/WhatsApp\ Image\ 2024-05-10\ at\ 12.39.15\ PM.jpeg);
         background-repeat: no-repeat;
         background-size: 100%;
         background-position: 45% 15%;
@@ -2501,7 +2481,7 @@ p:hover {
     .sec6d1 {
         width: 80vw;
         height: 35vh;
-        background-image: url(/GKS/Omiklose.jpeg);
+        background-image: url(GKS/Omiklose.jpeg);
         background-repeat: no-repeat;
         background-size: 100%;
         background-position: 45% 15%;
@@ -2520,7 +2500,7 @@ p:hover {
     .sec6e1 {
         width: 80vw;
         height: 35vh;
-        background-image: url(/GKS/Great.jpeg);
+        background-image: url(GKS/Great.jpeg);
         background-repeat: no-repeat;
         background-size: 200%;
         background-position: 40% 15%;
@@ -2539,7 +2519,7 @@ p:hover {
     .sec6f1 {
         width: 80vw;
         height: 35vh;
-        background-image: url(/GKS/WhatsApp\ Image\ 2024-05-10\ at\ 12.47.30\ PM.jpeg);
+        background-image: url(GKS/WhatsApp\ Image\ 2024-05-10\ at\ 12.47.30\ PM.jpeg);
         background-repeat: no-repeat;
         background-size: 100%;
         background-position: 45% 15%;
@@ -2558,7 +2538,7 @@ p:hover {
     .sec6g1 {
         width: 80vw;
         height: 35vh;
-        background-image: url(/GKS/Baz.jpeg);
+        background-image: url(GKS/Baz.jpeg);
         background-repeat: no-repeat;
         background-size: 200%;
         background-position: 40% 5%;
@@ -2577,7 +2557,7 @@ p:hover {
     .sec6h1 {
         width: 80vw;
         height: 35vh;
-        background-image: url(/GKS/WhatsApp\ Image\ 2024-05-10\ at\ 12.46.47\ PM.jpeg);
+        background-image: url(GKS/WhatsApp\ Image\ 2024-05-10\ at\ 12.46.47\ PM.jpeg);
         background-repeat: no-repeat;
         background-size: 100%;
         background-position: 45% 15%;
@@ -2596,7 +2576,7 @@ p:hover {
     .sec6i1 {
         width: 80vw;
         height: 35vh;
-        background-image: url(/GKS/WhatsApp\ Image\ 2024-05-10\ at\ 12.38.27\ PM.jpeg);
+        background-image: url(GKS/WhatsApp\ Image\ 2024-05-10\ at\ 12.38.27\ PM.jpeg);
         background-repeat: no-repeat;
         background-size: 100%;
         background-position: 45% 15%;
@@ -2610,16 +2590,6 @@ p:hover {
         flex-direction: column;
         justify-content: center;
         align-items: center;
-    }
-
-    .sec6j1 {
-        width: 80vw;
-        height: 35vh;
-        border: 1px solid blue;
-        background-image: url(/GKS/);
-        background-repeat: no-repeat;
-        background-size: 100%;
-        background-position: 45% 15%;
     }
 
     .foot {
